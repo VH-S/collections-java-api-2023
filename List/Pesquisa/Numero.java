@@ -1,7 +1,5 @@
-package Pesquisa;
-import java.util.ArrayList;
-import java.util.Comparator;
-import java.util.List;
+package List.Pesquisa;
+
 public class Numero implements Comparable<Numero>{
     private int num;
     @Override

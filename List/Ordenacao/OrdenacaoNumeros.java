@@ -1,9 +1,5 @@
-package Ordenacao;
-import Pesquisa.Numero;
+package List.Ordenacao;
 
-import java.util.ArrayList;
-import java.util.Comparator;
-import java.util.List;
 public class OrdenacaoNumeros implements  Comparable<OrdenacaoNumeros>{
     private int num;
 

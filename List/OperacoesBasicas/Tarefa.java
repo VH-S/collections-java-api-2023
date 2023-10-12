@@ -1,7 +1,5 @@
-package OperacoesBasicas;
+package List.OperacoesBasicas;
 
-import java.util.List;
-import java.util.ArrayList;
 public class Tarefa {
     private String descricao;
 

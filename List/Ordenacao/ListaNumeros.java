@@ -1,6 +1,4 @@
-package Ordenacao;
-
-import Pesquisa.Numero;
+package List.Ordenacao;
 
 import java.util.ArrayList;
 import java.util.Collections;
